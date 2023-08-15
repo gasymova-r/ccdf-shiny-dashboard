@@ -14,6 +14,9 @@ Data for the project will be taken from the University of Michigan Institution f
 ### Solution:
 Proposed solution is a CCDF calculator which allows users to choose the characteristics of their family in order to see how many similar households have benefited from the program over the years. The app also generally describes the program and its state-specific benefits for potential aid recipients.
 
+### Preview:
+
+
 ### References:
 - Child Care and Development Fund (CCDF) Administrative Data Series. (2023). https://www.icpsr.umich.edu/web/ICPSR/ series/215
 - Jenkins, J. M., & Nguyen, T. (2021). Keeping Kids in Care: Reducing Administrative Burden in State Child Care Development Fund Policy. Journal of Public Administration Research and Theory, 32(1), 23–40. https://doi.org/10.1093/jopart/muab020
