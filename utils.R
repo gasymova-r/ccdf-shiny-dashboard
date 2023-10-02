@@ -1,4 +1,4 @@
-# plot about fanilies over the years
+# plot about families over the years
 make_plot <- function (data) { 
   ggplot(data, aes(x = factor(YEAR), group = YEAR)) +
     geom_bar(stat = "count", fill = "blue") +
