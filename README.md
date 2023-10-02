@@ -12,7 +12,7 @@ The main audience of the dashboard are low-income families with children, potent
 Data for the project will be taken from the University of Michigan Institution for Social Research website (Child Care and Development Fund (CCDF) Administrative Data Series, 2023). The source contains data on families and children receiving assistance through the CCDF from 2001 to 2019 in each US state. Data is accompanied by a code book clearly interpreting the variable names.
 
 ### Solution:
-Proposed solution is a CCDF calculator which allows users to choose the characteristics of families in order to see how many similar households have benefited from the program over the years. The app also generally describes the program and its state-specific benefits for interested stakeholders.
+Proposed solution is a CCDF calculator which allows users to choose the family characteristics in order to see how many similar households have benefited from the program over the years. The app also generally describes the program and its state-specific benefits for interested stakeholders.
 
 ### Preview:
 <img src="/Preview_1.png">
