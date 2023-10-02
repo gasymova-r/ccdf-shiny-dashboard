@@ -20,7 +20,7 @@ Proposed solution is a CCDF calculator which allows users to choose the characte
 <img src="/Preview_2.png"> 
 
 ### References:
-- Child Care and Development Fund (CCDF) Administrative Data Series. (2023). https://www.icpsr.umich.edu/web/ICPSR/ series/215
+- Child Care and Development Fund (CCDF) Administrative Data Series. (2023). https://www.icpsr.umich.edu/web/ICPSR/series/215
 - Jenkins, J. M., & Nguyen, T. (2021). Keeping Kids in Care: Reducing Administrative Burden in State Child Care Development Fund Policy. Journal of Public Administration Research and Theory, 32(1), 23–40. https://doi.org/10.1093/jopart/muab020
 - Hill, Z., Gennetian, L. A., & Mendez, J. L. (2019). A descriptive profile of state Child Care and Development Fund policies in states with high populations of low-income Hispanic children. Early Childhood Research Quarterly. https://doi.org/10.1016/j. ecresq.2018.10.003
 - What is the Child Care and Development Fund (CCDF)? (2016, December 14). The Administration for Children and Families. https://www.acf.hhs.gov/archive/occ/faq/what-child-care-and-development-fund-ccdf
