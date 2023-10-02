@@ -5,7 +5,7 @@ library(shinydashboard)
 library(shinydashboardPlus)
 
 # working directory
-setwd("/Users/rafa/Desktop/UIC/Spring 2023/Coding for Data Applications/Final_Project/Rafiga_Gasymova_Final_Project")
+setwd("set_your_working_dir")
 
 # data_2014 = as_tibble(read.csv("2014.tsv", sep = "\t")) %>% mutate(YEAR = "2014")
 # data_2015 = as_tibble(read.csv("2015.tsv", sep = "\t")) %>% mutate(YEAR = "2015")
