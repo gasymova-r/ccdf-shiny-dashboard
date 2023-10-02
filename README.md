@@ -3,16 +3,16 @@
 ## About the project
 ### Problem:
 
-The Child Care and Development Fund (CCDF) is a $5 billion public program aiming to provide financial aid in order to facilitate child care for low-income households. While the CCDF program currently assists over 1.4 million children in the US (What Is the Child Care and Development Fund (CCDF)?, 2016), there is a lot of uncertainty, inequality, and administrative burden associated with the process (Jenkins & Nguyen, 2021). Furthermore, the eligibility criteria can be unclear, especially for minority populations (e.x., Hill et al., 2019). Thus, the goal of this project is to raise awareness of the program and inform families of their eligibility based on past data.
+The Child Care and Development Fund (CCDF) is a $5 billion public program aiming to provide financial aid in order to facilitate child care for low-income households. While the CCDF program currently assists over 1.4 million children in the US (What Is the Child Care and Development Fund (CCDF)?, 2016), there is a lot of uncertainty, inequality, and administrative burden associated with the process (Jenkins & Nguyen, 2021). Furthermore, the eligibility criteria can be unclear, especially for minority populations (e.x., Hill et al., 2019). Thus, the goal of this project is to raise the general awareness of the program based on past data.
 
 ### Audience:
-The main audience of the dashboard is low-income families with children, potentially qualifying for the aid. Apart from them, the website can be of interest to policymakers and researchers.
+The main audience of the dashboard are policymakers and researchers.
 
 ### Data source:
 Data for the project will be taken from the University of Michigan Institution for Social Research website (Child Care and Development Fund (CCDF) Administrative Data Series, 2023). The source contains data on families and children receiving assistance through the CCDF from 2001 to 2019 in each US state. Data is accompanied by a code book clearly interpreting the variable names.
 
 ### Solution:
-Proposed solution is a CCDF calculator which allows users to choose the characteristics of their family in order to see how many similar households have benefited from the program over the years. The app also generally describes the program and its state-specific benefits for potential aid recipients.
+Proposed solution is a CCDF calculator which allows users to choose the characteristics of families in order to see how many similar households have benefited from the program over the years. The app also generally describes the program and its state-specific benefits for interested stakeholders.
 
 ### Preview:
 <img src="/Preview_1.png">
